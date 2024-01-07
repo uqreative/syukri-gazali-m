@@ -1,6 +1,7 @@
 import React from 'react';
 import KonekDong from './pages/cobaConnect';
 import YangKedua from './pages/kedua';
+import HeaderNav from './pages/navbar';
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <h1>Masa gk nyambung sih ?</h1>
       <KonekDong></KonekDong>
       <YangKedua></YangKedua>
+      <HeaderNav></HeaderNav>
     </div>
   );
 }

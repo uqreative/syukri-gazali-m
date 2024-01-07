@@ -8,6 +8,9 @@ function App() {
   return (
     <div>
       <h1>Masa gk nyambung sih ?</h1>
+      <h1 className="text-3xl font-bold underline">
+      Hello world!ddd
+    </h1>
       <KonekDong></KonekDong>
       <YangKedua></YangKedua>
       <HeaderNav></HeaderNav>

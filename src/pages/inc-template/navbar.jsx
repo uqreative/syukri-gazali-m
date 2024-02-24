@@ -27,14 +27,14 @@ export default function HeaderNav (){
 
           <div className="flex flex-col lg:flex-row justify-between w-full py-4 lg:py-0">
             <div className="flex flex-col lg:flex-row gap-x-5 items-start lg:items-center justify-clLenter">
-              <a href="#" className="block px-3 py-4 text-white hover:text-blue-200">My Story</a>
-              <a href="#" className="block px-3 py-4 text-white hover:text-blue-200">Ability & Skills</a>
-              <a href="#" className="block px-3 py-4 text-white hover:text-blue-200">My Crafted Work</a>
-              <a href="#" className="block px-3 py-4 text-white hover:text-blue-200">Contact</a>
+              <a href="/" className="block px-3 py-4 text-white hover:text-blue-200">My Story</a>
+              <a href="/" className="block px-3 py-4 text-white hover:text-blue-200">Ability & Skills</a>
+              <a href="/" className="block px-3 py-4 text-white hover:text-blue-200">My Crafted Work</a>
+              <a href="/" className="block px-3 py-4 text-white hover:text-blue-200">Contact</a>
             </div>
             <div className="flex flex-col lg:flex-row gap-x-5">
-              <a href="#" className="block m-2 px-3 py-2 text white text-nowrap bg-white hover:bg-blue-500">Button CTA</a>
-              <a href="#" className="block m-2 px-3 py-2 text white text-nowrap bg-white hover:bg-blue-500">Button Login</a>
+              <a href="/" className="block m-2 px-3 py-2 text white text-nowrap bg-white hover:bg-blue-500">Button CTA</a>
+              <a href="/" className="block m-2 px-3 py-2 text white text-nowrap bg-white hover:bg-blue-500">Button Login</a>
             </div>
           </div>
 
